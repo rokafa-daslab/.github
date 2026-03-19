@@ -35,7 +35,7 @@
 ## ✉️ 연락처 및 협업 (Contact)
 * **연구실장:** 김송현 교수 (Ph.D.)
 * **소속:** 대한민국 공군사관학교 (ROKAFA) 컴퓨터과학과
-* **이메일:** songhyon.kim at kafa.ac.kr
+* **이메일:** songhyon.kim at afa.ac.kr
 * **위치:** 충청북도 청주시 공군사관학교
 
 ---
