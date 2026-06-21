@@ -32,6 +32,15 @@
 
 ---
 
+## 📦 공개 리소스 (Public Resources)
+경진대회 참가자는 아래 공개 SDK로 바로 시작할 수 있습니다. 행동 트리(Behavior Tree) 기반으로 AI 파일럿을 설계하고, 제출하여 다른 참가자와 대결합니다.
+
+* **[ai-combat-sdk](https://github.com/rokafa-daslab/ai-combat-sdk)** — 참가자용 개발 키트 (Python · Behavior Tree). Fork 후 시작하세요.
+
+> 시뮬레이션 코어와 대회 운영 인프라(예선 자동화·중계 시스템 등)는 무결성과 보안을 위해 **비공개 저장소**에서 관리됩니다.
+
+---
+
 ## 👥 연구진 (Research Team)
 
 **연구실장 (Director)**
