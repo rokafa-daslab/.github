@@ -32,8 +32,6 @@ ROKAFA-DAS Lab.은 **고충실도 AI 파일럿**과 **미래 공중전을 위한
 
 본 연구실은 자율 공중 교전 분야의 혁신을 위해 **AI Pilot 경진대회**를 주최합니다. 참가자는 행동 트리 기반으로 자신만의 AI 파일럿을 설계하고, 제출하여 다른 참가자와 대결합니다.
 
-> **🚀 [ai-combat-sdk](https://github.com/rokafa-daslab/ai-combat-sdk)** — 참가자용 개발 키트 (Python · Behavior Tree). **Fork 후 바로 시작하세요.**
-
 시뮬레이션 코어와 대회 운영 인프라(예선 자동화·중계 시스템 등)는 무결성과 보안을 위해 비공개 저장소에서 관리됩니다.
 
 ## 👥 연구진 (Team)
